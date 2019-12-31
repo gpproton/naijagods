@@ -1,6 +1,6 @@
 {
   "name": "backend",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "description": "a Sails application",
   "keywords": [],
@@ -28,8 +28,8 @@
     "type": "git",
     "url": "git://github.com/leanny/backend.git"
   },
-  "author": "leanny",
-  "license": "",
+  "author": "Godwin peter .O <me@godwin.dev>",
+  "license": "MIT",
   "engines": {
     "node": "^13.3"
   }
